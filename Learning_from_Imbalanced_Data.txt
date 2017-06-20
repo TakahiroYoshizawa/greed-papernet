@@ -1,0 +1,192 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU He, HB
+   Garcia, EA
+AF He, Haibo
+   Garcia, Edwardo A.
+TI Learning from Imbalanced Data
+SO IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+LA English
+DT Review
+DE Imbalanced learning; classification; sampling methods; cost-sensitive
+   learning; kernel-based learning; active learning; assessment metrics
+ID SUPPORT VECTOR MACHINES; DATA SETS; NEURAL-NETWORKS; CLASSIFICATION;
+   RECOGNITION; CLASSIFIERS; SVM; PREDICTION; ONLINE; TREES
+AB With the continuous expansion of data availability in many large-scale, complex, and networked systems, such as surveillance, security, Internet, and finance, it becomes critical to advance the fundamental understanding of knowledge discovery and analysis from raw data to support decision-making processes. Although existing knowledge discovery and data engineering techniques have shown great success in many real-world applications, the problem of learning from imbalanced data (the imbalanced learning problem) is a relatively new challenge that has attracted growing attention from both academia and industry. The imbalanced learning problem is concerned with the performance of learning algorithms in the presence of underrepresented data and severe class distribution skews. Due to the inherent complex characteristics of imbalanced data sets, learning from such data requires new understandings, principles, algorithms, and tools to transform vast amounts of raw data efficiently into information and knowledge representation. In this paper, we provide a comprehensive review of the development of research in learning from imbalanced data. Our focus is to provide a critical review of the nature of the problem, the state-of-the-art technologies, and the current assessment metrics used to evaluate learning performance under the imbalanced learning scenario. Furthermore, in order to stimulate future research in this field, we also highlight the major opportunities and challenges, as well as potential important research directions for learning from imbalanced data.
+C1 [He, Haibo; Garcia, Edwardo A.] Stevens Inst Technol, Dept Elect & Comp Engn, Hoboken, NJ 07030 USA.
+RP He, HB (reprint author), Stevens Inst Technol, Dept Elect & Comp Engn, Hoboken, NJ 07030 USA.
+EM hhe@stevens.edu; edwardo.garcia@nyu.edu
+CR Abe N., 2004, P 10 ACM SIGKDD INT, P3, DOI 10.1145/1014052.1014056
+   Abe N., 2003, P INT C MACH LEARN W
+   Akbani R, 2004, LECT NOTES COMPUT SC, V3201, P39
+   Batista G.E.A.P.A., 2004, ACM SIGKDD EXPL NEWS, V6, P20, DOI DOI 10.1145/1007730.1007735
+   Bennett K. P., 1998, P NEUR INF PROC SYST, P368
+   Blum A., 1998, Proceedings of the Eleventh Annual Conference on Computational Learning Theory, P92, DOI 10.1145/279943.279962
+   Blum A., 2001, P 18 INT C MACH LEAR, P19
+   Bordes A, 2005, J MACH LEARN RES, V6, P1579
+   Breiman L, 1984, CLASSIFICATION REGRE
+   Bunescu R, 2005, ARTIF INTELL MED, V33, P139, DOI 10.1016/j.artmed.2004.07.016
+   Caruana R., 2000, P AM ASS ART INT AAA, P51
+   Chan P. K., 1998, Proceedings Fourth International Conference on Knowledge Discovery and Data Mining, P164
+   Chan PK, 1999, IEEE INTELL SYST APP, V14, P67, DOI 10.1109/5254.809570
+   Chawla NV, 2002, J ARTIF INTELL RES, V16, P321
+   Chawla N. V., 2003, P 7 EUR C PRINC PRAC, P107
+   Chawla N.V., 2003, P INT C MACH LEARN
+   Chawla N. V., 2004, ACM SIGKDD EXPLORATI, V6, P1, DOI DOI 10.1145/1007730.1007733
+   Chawla N. V., 2003, P INT C MACH LEARN W
+   CHEN K, 2006, P LJCNN 2006, P1770
+   Clifton P, 2004, ACM SIGKDD EXPLORATI, V6, P50
+   DAVIS J, 2005, P INT JOINT C ART IN, P677
+   Davis J., 2006, P 23 INT C MACH LEAR, P233, DOI DOI 10.1145/1143844.1143874
+   Domingos P., 1996, P 13 INT C MACH LEAR, P105
+   Domingos P, 1999, P 5 INT C KNOWL DISC, P155, DOI DOI 10.1145/312129.312220
+   Doucette J, 2008, LECT NOTES COMPUT SC, V4971, P266, DOI 10.1007/978-3-540-78671-9_23
+   Drummond C, 2000, P 17 INT C MACH LEAR, P239
+   Drummond C., 2003, P INT C MACH LEARN W
+   Drummond C, 2006, MACH LEARN, V65, P95, DOI 10.1007/s10994-006-8199-5
+   Elkan C, 2001, P 17 INT JOINT C ART, P973
+   Ertekin S., 2007, P 16 ACM C INF KNOWL, P127, DOI 10.1145/1321440.1321461
+   Ertekin S., 2007, P 30 ANN INT ACM SIG, P823, DOI 10.1145/1277741.1277927
+   Estabrooks A, 2004, COMPUT INTELL, V20, P18, DOI 10.1111/j.0824-7935.2004.t01-1-00228.x
+   Fan W., 1999, P 16 INT C MACH LEAR, P97
+   Fawcett T, 2001, 2001 IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS, P131, DOI 10.1109/ICDM.2001.989510
+   Fawcett T, 2003, HPL20034
+   Fawcett T, 2006, PATTERN RECOGN LETT, V27, P861, DOI 10.1016/j.patrec.2005.10.010
+   Freund Y, 1997, J COMPUT SYST SCI, V55, P119, DOI 10.1006/jcss.1997.1504
+   Freund Y., 1996, P 13 INT C MACH LEAR, P148, DOI DOI 10.4236/IIM.2010.26047
+   Fujino A., 2005, P 20 NAT C ART INT, P764
+   Fumera G, 2002, LECT NOTES COMPUT SC, V2388, P68
+   Fung GM, 2005, MACH LEARN, V59, P77, DOI 10.1007/s10994-005-0463-6
+   Gama J, 2003, THEOR COMPUT SCI, V292, P417, DOI 10.1016/S0304-3975(02)00179-2
+   Guo H., 2004, ACM SIGKDD EXPLORATI, V6, P30, DOI 10.1145/1007730.1007736
+   Guo H., 2004, P INT C INN APPL ART, P1082
+   Han H, 2005, P INT C INT COMP, P878
+   Hand DJ, 2001, MACH LEARN, V45, P171, DOI 10.1023/A:1010920819831
+   Haykin S., 1999, NEURAL NETWORKS COMP
+   He H., 2007, P INT C ART INT, P358
+   HE H, 2008, P INT J C NEUR NETW, P1322
+   He HB, 2008, IEEE T NEURAL NETWOR, V19, P1727, DOI 10.1109/TNN.2008.2001774
+   Holte R. C., 2005, P KDD 05 WORKSH UT B, P3, DOI 10.1145/1089827.1089843
+   Holte R. C., 1989, P 11 INT JOINT C ART, P813
+   HOLTE RC, 2000, P INT C KNOWL DISC D, P198
+   Hong X, 2007, IEEE T NEURAL NETWOR, V18, P28, DOI 10.1109/TNN.2006.882812
+   Japkowicz N, 2001, MACH LEARN, V42, P97, DOI 10.1023/A:1007660820062
+   Japkowicz N., 2002, Intelligent Data Analysis, V6, P429
+   Japkowicz N., 2000, P AM ASS ART INT AAA
+   Japkowicz N., 1995, P 14 JOINT C ART INT, P518
+   Japkowicz N., 2000, P LEARN IMB DAT, P10
+   JAPKOWICZ N, 2003, P INT C MACH LEARN W
+   Jo T., 2004, ACM SIGKDD EXPLOR NE, V6, P40, DOI DOI 10.1145/1007730.1007737
+   Joshi MV, 2001, 2001 IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS, P257, DOI 10.1109/ICDM.2001.989527
+   Kang PS, 2006, LECT NOTES COMPUT SC, V4232, P837
+   KOHAVI R, 1996, P INT C MACH LEARN
+   Kubat M, 1998, MACH LEARN, V30, P195, DOI 10.1023/A:1007452223027
+   Kubat M., 1997, P 14 INT C MACH LEAR, P179
+   Kukar M, 1998, P 13 EUR C ART INT, P445
+   Kwok JTY, 1999, IEEE T NEURAL NETWOR, V10, P1018, DOI 10.1109/72.788642
+   LANDGREBE TCW, 2006, P 18 INT C PATT REC, P123
+   Laurikkala J., 2001, P 8 C AI MED EUR ART, P63, DOI DOI 10.1007/3-540-48229-6_9
+   Lee H, 2006, LECT NOTES COMPUT SC, V4233, P21
+   LI P, 2006, P INT C PATT REC, P1108
+   Liu XY, 2006, IEEE DATA MINING, P970
+   Liu XY, 2006, IEEE DATA MINING, P965
+   Liu Y, 2006, LECT NOTES ARTIF INT, V3918, P107
+   LIU YH, 2005, P INT C SYST MAN CYB, P1704
+   Liu YH, 2007, IEEE T NEURAL NETWOR, V18, P178, DOI 10.1109/TNN.2006.883013
+   Maloof M., 1997, P IM UND WORKSH, P835
+   Maloof M. A., 2003, P INT C MACH LEARN W
+   Manevitz L, 2007, NEUROCOMPUTING, V70, P1466, DOI 10.1016/j.neucom.2006.05.013
+   Manevitz L. M., 2001, J MACHINE LEARNING R, V2, P139
+   McCarthy K, 2005, P 1 INT WORKSH UT BA, P69, DOI 10.1145/1089827.1089836
+   Mease D, 2007, J MACH LEARN RES, V8, P409
+   Miller D. J., 1996, P ANN C NEUR INF PRO, P571
+   MITCHELL T, 1999, P INT C COGN SCI
+   Mitchell T. M., 1997, MACHINE LEARNING
+   *NIST, 2009, NIST SCI TECHN DAT
+   Pearson R., 2003, P INT C MACH LEARN W
+   Platt JC, 1999, ADVANCES IN KERNEL METHODS, P185
+   Prati RC, 2004, P 3 MEX INT C ART IN, P312
+   Provost F., 1997, Proceedings of the Third International Conference on Knowledge Discovery and Data Mining, P43
+   Provost F., 2000, P LEARN IMB DAT SETS
+   Provost F, 2000, IS0004 CEDER NEW YOR
+   Provost F, 1998, P 15 INT C MACH LEAR, P445
+   Qin A. K., 2004, P INT C PATT REC
+   QUINLAN J. R., 1986, MACH LEARN, V1, P1, DOI DOI 10.1023/A:1022643204877
+   Rao R. B., 2006, ACM SIGKDD EXPLORATI, V8, P3, DOI 10.1145/1147234.1147236
+   Raskutti B., 2004, ACM SIGKDD EXPLORATI, V6, P60, DOI 10.1145/1007730.1007739
+   RAUDYS SJ, 1991, IEEE T PATTERN ANAL, V13, P252, DOI 10.1109/34.75512
+   Rosenberg C., 2005, P 7 IEEE WORKSH APPL, P29
+   Scholkopf B, 2001, NEURAL COMPUT, V13, P1443, DOI 10.1162/089976601750264965
+   Sindhwani V., 2006, Proceedings of the Twenty-Ninth Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, P477, DOI 10.1145/1148170.1148253
+   Singla P., 2005, P 20 NAT C ART INT, P868
+   Su CT, 2007, IEEE T KNOWL DATA EN, V19, P1321, DOI 10.1109/TKDE.2007.190623
+   Sun Y, 2006, P 6 INT C DAT MIN, P592
+   Sun YM, 2007, PATTERN RECOGN, V40, P3358, DOI 10.1016/j.patcog.2007.04.009
+   Taguchi G., 2002, MAHALANOBIS TAGUCHI
+   Taguchi G., 2001, MAHALANOBIS TAGUCHI
+   Tan Aik Choon, 2003, Genome Inform, V14, P206
+   Tang Y., 2006, P 2006 IEEE INT C GR, P457
+   Tang YC, 2005, ARTIF INTELL MED, V35, P121, DOI 10.1016/j.artmed.2005.02.003
+   TANG YC, 2005, P INT C FUZZ SYST, P138
+   TANG YC, 2006, P IEEE S BIOINF BIOE, P290
+   Tashk A., 2007, P INT C NAT COMP, P533
+   Ting KM, 2002, IEEE T KNOWL DATA EN, V14, P659, DOI 10.1109/TKDE.2002.1000348
+   Ting K.M., 2000, P 17 INT C MACH LEAR, P983
+   TOMEK I, 1976, IEEE T SYST MAN CYB, V6, P769
+   Vapnik V., 1995, NATURE STAT LEARNING
+   Vilarino F, 2005, LECT NOTES COMPUT SC, V3687, P783
+   Wang BX, 2008, LECT NOTES ARTIF INT, V4994, P38
+   Wang B. X., 2004, P IRIS MACH LEARN WO
+   Wang M., 2006, P IEEE INT C MULT EX, P1485
+   Webb G. I., 1998, P 11 AUSTR JOINT C A, P285
+   Weiss GM, 2005, DATA MINING AND KNOWLEDGE DISCOVERY HANDBOOK, P765, DOI 10.1007/0-387-25465-X_35
+   Weiss GM, 2003, J ARTIF INTELL RES, V19, P315
+   Weiss G. M., 2004, ACM SIGKDD EXPLORATI, V6, P7, DOI DOI 10.1145/1007730.1007734
+   Weiss G. M., 2001, MLTR43 RUTG U DEP CO
+   Woods K. S., 1993, International Journal of Pattern Recognition and Artificial Intelligence, V7, P1417, DOI 10.1142/S0218001493000698
+   Wu G, 2005, IEEE T KNOWL DATA EN, V17, P786, DOI 10.1109/TKDE.2005.95
+   Wu G, 2004, P 4 IEEE INT C DAT M, P265
+   WU G, 2003, P INT C DAT MIN ICDM
+   Wu G., 2003, P 20 INT C MACH LEAR, P816
+   Yang WH, 2008, IEEE T KNOWL DATA EN, V20, P601, DOI 10.1109/TKDE.2007.190720
+   Yu XP, 2007, PROCEEDINGS OF 2007 INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND CYBERNETICS, VOLS 1-7, P3425
+   Yuan J., 2006, P 14 ANN ACM INT C M, P441, DOI 10.1145/1180639.1180729
+   Zadrozny B., 2003, P 3 IEEE INT C DAT M, P435
+   Zhang J., 2003, P INT C MACH LEARN I
+   ZHOU D, 2004, P C NEUR INF PROC SY, P1633
+   Zhou ZH, 2006, IEEE T KNOWL DATA EN, V18, P63, DOI 10.1109/TKDE.2006.17
+   Zhou Z.-H., 2006, P 21 NAT C ART INT, P567
+   Zhu Jingbo, 2007, P 2007 JOINT C EMP M, P783
+   ZHU X, 2007, TR1530 U WISC MADS
+   Zhuang L, 2006, LECT NOTES ARTIF INT, V4099, P434
+   Zhuang L, 2006, LECT NOTES ARTIF INT, V4013, P538
+   2009, UC IRVINE MACHINE LE
+NR 145
+TC 1027
+Z9 1094
+U1 75
+U2 303
+PU IEEE COMPUTER SOC
+PI LOS ALAMITOS
+PA 10662 LOS VAQUEROS CIRCLE, PO BOX 3014, LOS ALAMITOS, CA 90720-1314 USA
+SN 1041-4347
+EI 1558-2191
+J9 IEEE T KNOWL DATA EN
+JI IEEE Trans. Knowl. Data Eng.
+PD SEP
+PY 2009
+VL 21
+IS 9
+BP 1263
+EP 1284
+DI 10.1109/TKDE.2008.239
+PG 22
+WC Computer Science, Artificial Intelligence; Computer Science, Information
+   Systems; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 471MO
+UT WOS:000268062400003
+ER
+
+EF

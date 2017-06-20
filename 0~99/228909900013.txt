@@ -1,0 +1,597 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Abascal, F
+   Valencia, A
+TI Clustering of proximal sequence space for the identification of protein
+   families
+SO BIOINFORMATICS
+VL 18
+IS 7
+BP 908
+EP 921
+DI 10.1093/bioinformatics/18.7.908
+PD JUL 2002
+PY 2002
+AB Motivation: The study of sequence space, and the deciphering of the
+   structure of protein families and subfamilies, has up to now been
+   required for work in comparative genomics and for the prediction of
+   protein function. With the emergence of structural proteomics projects,
+   it is becoming increasingly important to be able to select protein
+   targets for structural studies that will appropriately cover the space
+   of protein sequences, functions and genomic distribution.
+   These problems are the motivation for the development of methods for
+   clustering protein sequences and building families of potentially
+   orthologous sequences, such as those proposed here.
+   Results: First we developed a clustering strategy (Ncut algorithm)
+   capable of forming groups of related sequences by assessing their
+   pairwise relationships. The results presented for the ras super-family
+   of proteins are similar to those produced by other clustering methods,
+   but without the need for clustering the full sequence space. The Ncut
+   clusters are then used as the input to a process of reconstruction of
+   groups with equilibrated genomic composition formed by closely-related
+   sequences. The results of applying this technique to the data set used
+   in the construction of the COG database are very similar to those
+   derived by the human experts responsible for this database.
+RI Valencia, Alfonso/I-3127-2015
+OI Valencia, Alfonso/0000-0002-8937-6789
+SN 1367-4803
+UT WOS:000176911100003
+PM 12117788
+ER
+
+PT J
+AU Aggarwal, CC
+   Yu, PS
+TI Redefining clustering for high-dimensional applications
+SO IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING
+VL 14
+IS 2
+BP 210
+EP 225
+DI 10.1109/69.991713
+PD MAR-APR 2002
+PY 2002
+AB Clustering problems are well-known in the database literature for their
+   use in numerous applications, such as customer segmentation,
+   classification, and trend analysis. High-dimensional data has always
+   been a challenge for clustering algorithms because of the inherent
+   sparsity of the points. Recent research results indicate that, in
+   high-dimensional data, even the concept of proximity or clustering may
+   not be meaningful. We introduce a very general concept of projected
+   clustering which is able to construct clusters in arbitrarily aligned
+   subspaces of lower dimensionality. The subspaces are specific to the
+   clusters themselves. This definition is substantially more general and
+   realistic than the currently available techniques which limit the method
+   to only projections from the original set of attributes. The generalized
+   projected clustering technique may also be viewed as a way of trying to
+   redefine clustering for high-dimensional applications by searching for
+   hidden subspaces with clusters which are created by interattribute
+   correlations. We provide a new concept of using extended cluster feature
+   vectors in order to make the algorithm scalable for very large
+   databases. The running time and space requirements of the algorithm are
+   adjustable and are likely to trade-off with better accuracy.
+RI Yu, Philip/A-2815-2012
+SN 1041-4347
+UT WOS:000174226200002
+ER
+
+PT J
+AU AKAIKE, H
+TI NEW LOOK AT STATISTICAL-MODEL IDENTIFICATION
+SO IEEE TRANSACTIONS ON AUTOMATIC CONTROL
+VL AC19
+IS 6
+BP 716
+EP 723
+DI 10.1109/TAC.1974.1100705
+PD 1974
+PY 1974
+SN 0018-9286
+EI 1558-2523
+UT WOS:A1974U921700011
+ER
+
+PT J
+AU Alizadeh, AA
+   Eisen, MB
+   Davis, RE
+   Ma, C
+   Lossos, IS
+   Rosenwald, A
+   Boldrick, JG
+   Sabet, H
+   Tran, T
+   Yu, X
+   Powell, JI
+   Yang, LM
+   Marti, GE
+   Moore, T
+   Hudson, J
+   Lu, LS
+   Lewis, DB
+   Tibshirani, R
+   Sherlock, G
+   Chan, WC
+   Greiner, TC
+   Weisenburger, DD
+   Armitage, JO
+   Warnke, R
+   Levy, R
+   Wilson, W
+   Grever, MR
+   Byrd, JC
+   Botstein, D
+   Brown, PO
+   Staudt, LM
+TI Distinct types of diffuse large B-cell lymphoma identified by gene
+   expression profiling
+SO NATURE
+VL 403
+IS 6769
+BP 503
+EP 511
+DI 10.1038/35000501
+PD FEB 3 2000
+PY 2000
+AB Diffuse large B-cell lymphoma (DLBCL), the most common subtype of
+   non-Hodgkin's lymphoma, is clinically heterogeneous: 40% of patients
+   respond well to current therapy and have prolonged survival, whereas the
+   remainder succumb to the disease. We proposed that this variability in
+   natural history reflects unrecognized molecular heterogeneity in the
+   tumours, Using DNA microarrays, we have conducted a systematic
+   characterization of gene expression in B-cell malignancies. Here we show
+   that there is diversity in gene expression among the tumours of DLBCL
+   patients, apparently reflecting the variation in tumour proliferation
+   rate, host response and differentiation state of the tumour. We
+   identified two molecularly distinct forms of DLBCL which had gene
+   expression patterns indicative of different stages of B-cell
+   differentiation. One type expressed genes characteristic of germinal
+   centre B cells ('germinal centre B-like DLBCL'); the second type
+   expressed genes normally induced during in vitro activation of
+   peripheral blood B cells ('activated B-like DLBCL'), Patients with
+   germinal centre B-like DLBCL had a significantly better overall survival
+   than those with activated B-like DLBCL, The molecular classification of
+   tumours on the basis of gene expression can thus identify previously
+   undetected and clinically significant subtypes of cancer.
+RI Sherlock, Gavin/B-1831-2009; Sherlock, Gavin/E-9110-2012; Alizadeh, Arash Ash/; Sherlock, Gavin/
+OI Alizadeh, Arash Ash/0000-0002-5153-5625; Sherlock,
+   Gavin/0000-0002-1692-4983
+SN 0028-0836
+UT WOS:000085227300039
+PM 10676951
+ER
+
+PT J
+AU Alon, U
+   Barkai, N
+   Notterman, DA
+   Gish, K
+   Ybarra, S
+   Mack, D
+   Levine, AJ
+TI Broad patterns of gene expression revealed by clustering analysis of
+   tumor and normal colon tissues probed by oligonucleotide arrays
+SO PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF
+   AMERICA
+VL 96
+IS 12
+BP 6745
+EP 6750
+DI 10.1073/pnas.96.12.6745
+PD JUN 8 1999
+PY 1999
+AB Oligonucleotide arrays can provide a broad picture of the state of the
+   cell, by monitoring the expression level of thousands of genes at the
+   same time. It is of interest to develop techniques for extracting useful
+   information from the resulting data sets. Here we report the application
+   of a two-way clustering method for analyzing a data set consisting of
+   the expression patterns of different cell types. Gene expression in 40
+   tumor and 22 normal colon tissue samples was analyzed with an Affymetrix
+   oligonucleotide array complementary to more than 6,500 human genes. An
+   efficient two way clustering algorithm was applied to both the genes and
+   the tissues, revealing broad coherent patterns that suggest a high
+   degree of organization underlying gene expression in these tissues.
+   Coregulated families of genes clustered together, as demonstrated for
+   the ribosomal proteins. Clustering also separated cancerous from
+   noncancerous tissue and cell lines from in vivo tissues on the basis of
+   subtle distributed patterns of genes even when expression of individual
+   genes varied only slightly between the tissues, Two-way clustering thus
+   may be of use both in classifying genes into functional groups and in
+   classifying tissues based on gene expression.
+SN 0027-8424
+UT WOS:000080842200032
+PM 10359783
+ER
+
+PT J
+AU ALSULTAN, KS
+TI A TABU SEARCH APPROACH TO THE CLUSTERING PROBLEM
+SO PATTERN RECOGNITION
+VL 28
+IS 9
+BP 1443
+EP 1451
+DI 10.1016/0031-3203(95)00022-R
+PD SEP 1995
+PY 1995
+AB In this paper we consider the problem of clustering m objects into c
+   clusters. The objects are represented by points in an n-dimensional
+   Euclidean space, and the objective is to classify these m points into c
+   clusters such that the distance between points within a cluster and its
+   center (which is to be found) is minimized. The problem is a nonconvex
+   program that has many local minima. It has been studied by many
+   researchers and the most well-known algorithm for solving it is the
+   k-means algorithm. In this paper, we develop a new algorithm for solving
+   this problem based on a tabu search technique. Preliminary computational
+   experience on the developed algorithm are encouraging and compare
+   favorably with both the k-means and the simulated annealing algorithms.
+SN 0031-3203
+UT WOS:A1995RV43600011
+ER
+
+PT J
+AU ALTSCHUL, SF
+   GISH, W
+   MILLER, W
+   MYERS, EW
+   LIPMAN, DJ
+TI BASIC LOCAL ALIGNMENT SEARCH TOOL
+SO JOURNAL OF MOLECULAR BIOLOGY
+VL 215
+IS 3
+BP 403
+EP 410
+DI 10.1006/jmbi.1990.9999
+PD OCT 5 1990
+PY 1990
+RI Gish, Warren/C-8123-2012; Hypsa, Vaclav/G-9847-2014
+SN 0022-2836
+UT WOS:A1990ED16700008
+PM 2231712
+ER
+
+PT J
+AU Altschul, SF
+   Madden, TL
+   Schaffer, AA
+   Zhang, JH
+   Zhang, Z
+   Miller, W
+   Lipman, DJ
+TI Gapped BLAST and PSI-BLAST: a new generation of protein database search
+   programs
+SO NUCLEIC ACIDS RESEARCH
+VL 25
+IS 17
+BP 3389
+EP 3402
+DI 10.1093/nar/25.17.3389
+PD SEP 1 1997
+PY 1997
+AB The BLAST programs are widely used tools for searching protein and DNA
+   databases for sequence similarities. For protein comparisons, a variety
+   of definitional, algorithmic and statistical refinements described here
+   permits the execution time of the BLAST programs to be decreased
+   substantially while enhancing their sensitivity to weak similarities, A
+   new criterion for triggering the extension of word hits, combined with a
+   new heuristic for generating gapped alignments, yields a gapped BLAST
+   program that runs at approximately three times the speed of the
+   original, In addition, a method is introduced for automatically
+   combining statistically significant alignments produced by BLAST into a
+   position-specific score matrix, and searching the database using this
+   matrix, The resulting Position-Specific Iterated BLAST (PSI-BLAST)
+   program runs at approximately the same speed per iteration as gapped
+   BLAST, but in many cases is much more sensitive to weak but biologically
+   relevant sequence similarities. PSI-BLAST is used to uncover several new
+   and interesting members of the BRCT superfamily.
+RI Schaffer, Alejandro/F-2902-2012
+SN 0305-1048
+UT WOS:A1997XU79300002
+PM 9254694
+ER
+
+PT J
+AU BABU, GP
+   MURTY, MN
+TI CLUSTERING WITH EVOLUTION STRATEGIES
+SO PATTERN RECOGNITION
+VL 27
+IS 2
+BP 321
+EP 329
+DI 10.1016/0031-3203(94)90063-9
+PD FEB 1994
+PY 1994
+AB The applicability of evolution strategies (ESs), population based
+   stochastic optimization techniques, to optimize clustering objective
+   functions is explored. Clustering objective functions are categorized
+   into centroid and non-centroid type of functions. Optimization of the
+   centroid type of objective functions is accomplished by formulating them
+   as functions of real-valued parameters using ESs. Both hard and fuzzy
+   clustering objective functions are considered in this study.
+   Applicability of ESs to discrete optimization problems is extended to
+   optimize the non-centroid type of objective functions. As ESs are
+   amenable to parallelization, a parallel model (master/slave model) is
+   described in the context of the clustering problem. Results obtained for
+   selected data sets substantiate the utility of ESs in clustering.
+SN 0031-3203
+UT WOS:A1994ND35600011
+ER
+
+PT J
+AU BABU, GP
+   MURTY, MN
+TI A NEAR-OPTIMAL INITIAL SEED VALUE SELECTION IN K-MEANS ALGORITHM USING A
+   GENETIC ALGORITHM
+SO PATTERN RECOGNITION LETTERS
+VL 14
+IS 10
+BP 763
+EP 769
+DI 10.1016/0167-8655(93)90058-L
+PD OCT 1993
+PY 1993
+AB The K-means algorithm for clustering is very much dependent on the
+   initial seed values. We use a genetic al to find a near-optimal
+   partitioning of the given data set by selecting proper initial seed
+   values in the K-means algorithm. Results obtained are very encouraging
+   and in most of the cases, on data sets having well separated clusters,
+   the proposed scheme reached a global minimum.
+SN 0167-8655
+UT WOS:A1993MB27500003
+ER
+
+PT J
+AU BACKER, E
+   JAIN, AK
+TI A CLUSTERING PERFORMANCE-MEASURE BASED ON FUZZY SET DECOMPOSITION
+SO IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+VL 3
+IS 1
+BP 66
+EP 75
+PD 1981
+PY 1981
+SN 0162-8828
+UT WOS:A1981LK11600007
+PM 21868919
+ER
+
+PT J
+AU Baldi, P
+   Long, AD
+TI A Bayesian framework for the analysis of microarray expression data:
+   regularized t-test and statistical inferences of gene changes
+SO BIOINFORMATICS
+VL 17
+IS 6
+BP 509
+EP 519
+DI 10.1093/bioinformatics/17.6.509
+PD JUN 2001
+PY 2001
+AB Motivation: DNA microarrays are now capable of providing genome-wide
+   patterns of gene expression across many different conditions. The first
+   level of analysis of these patterns requires determining whether
+   observed differences in expression are significant or not. Current
+   methods are unsatisfactory due to the lack of a systematic framework
+   that can accommodate noise, variability, and low replication often
+   typical of microarray data.
+   Results: We develop a Bayesian probabilistic framework for microarray
+   data analysis. At the simplest level, we model log-expression values by
+   independent normal distributions, parameterized by corresponding means
+   and variances with hierarchical prior distributions. We derive point
+   estimates for both parameters and hyperparameters, and regularized
+   expressions for the variance of each gene by combining the empirical
+   variance with a local background variance associated with neighboring
+   genes. An additional hyperparameter, inversely related to the number of
+   empirical observations, determines the strength of the background
+   variance. Simulations show that these point estimates, combined with a
+   t-test, provide a systematic inference approach that compares favorably
+   with simple t-test or fold methods, and partly compensate for the lack
+   of replication.
+OI Long, Tony/0000-0002-5007-8514
+SN 1367-4803
+UT WOS:000169404700004
+PM 11395427
+ER
+
+PT J
+AU BALDI, P
+   HORNIK, K
+TI NEURAL NETWORKS AND PRINCIPAL COMPONENT ANALYSIS - LEARNING FROM
+   EXAMPLES WITHOUT LOCAL MINIMA
+SO NEURAL NETWORKS
+VL 2
+IS 1
+BP 53
+EP 58
+DI 10.1016/0893-6080(89)90014-2
+PD 1989
+PY 1989
+SN 0893-6080
+UT WOS:A1989R697100004
+ER
+
+PT J
+AU BALL, GH
+   HALL, DJ
+TI A CLUSTERING TECHNIQUE FOR SUMMARIZING MULTIVARIATE DATA
+SO BEHAVIORAL SCIENCE
+VL 12
+IS 2
+BP 153
+EP &
+DI 10.1002/bs.3830120210
+PD 1967
+PY 1967
+SN 0005-7940
+UT WOS:A19679043000009
+PM 6030099
+ER
+
+PT J
+AU Bandyopadhyay, S
+   Maulik, U
+TI Nonparametric genetic clustering: Comparison of validity indices
+SO IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART C-APPLICATIONS AND
+   REVIEWS
+VL 31
+IS 1
+BP 120
+EP 125
+DI 10.1109/5326.923275
+PD FEB 2001
+PY 2001
+AB Variable string length genetic algorithm (GA) is used for developing a
+   novel nonparametric clustering technique when the number of clusters is
+   not fixed a priori. Chromosomes in the same population may now have
+   different lengths since they encode different number of clusters. The
+   crossover operator is redefined to tackle the concept of variable string
+   Length. Cluster validity index is used as a measure of the fitness of a
+   chromosome. The performance of several cluster validity indices, namely,
+   Davies-Bouldin (DB) index, Dunn's index, two of its generalized versions
+   and a recently developed index, in appropriately partitioning a data
+   set, are compared.
+OI Maulik, Ujjwal/0000-0003-1167-0774
+SN 1094-6977
+EI 1558-2442
+UT WOS:000168755000012
+ER
+
+PT J
+AU Baraldi, A
+   Alpaydin, E
+TI Constructive feedforward ART clustering networks - Part I
+SO IEEE TRANSACTIONS ON NEURAL NETWORKS
+VL 13
+IS 3
+BP 645
+EP 661
+AR PII S1045-9227(02)04451-X
+DI 10.1109/TNN.2002.1000130
+PD MAY 2002
+PY 2002
+AB Part I of this paper proposes a definition of the adaptive resonance
+   theory (ART) class of constructive unsupervised on-line learning
+   clustering networks. Class ART generalizes several well-known clustering
+   models, e.g., ART 1, improved ART 1, adaptive Hamming net (AHN), and
+   Fuzzy ART, which are optimized in terms of memory storage and/or
+   computation time. Next, the symmetric Fuzzy ART (S-Fuzzy ART) network is
+   presented as a possible improvement over Fuzzy ART. As a generalization
+   of S-Fuzzy ART, the simplified adaptive resonance theory (SART) group of
+   ART algorithms is defined. Gaussian ART (GART), which is found in the
+   literature, is presented as one more instance of class SART. In Part 11
+   of this work, a novel SART network, called fully self-organizing SART
+   (FOSART), is proposed and compared with Fuzzy ART, S-Fuzzy ART, GART and
+   other well-known clustering algorithms. Results of our comparison may
+   easily extend to the ARTMAP supervised learning framework.
+RI ALPAYDIN, ETHEM/E-6127-2013
+SN 1045-9227
+UT WOS:000175514000011
+PM 18244462
+ER
+
+PT J
+AU Baraldi, A
+   Blonda, P
+TI A survey of fuzzy clustering algorithms for pattern recognition - Part I
+SO IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART B-CYBERNETICS
+VL 29
+IS 6
+BP 778
+EP 785
+DI 10.1109/3477.809032
+PD DEC 1999
+PY 1999
+AB Clustering algorithms aim at modeling fuzzy (i.e., ambiguous) unlabeled
+   patterns efficiently. Our goal is to propose a theoretical framework
+   where the expressive power of clustering systems can be compared on the
+   basis of a meaningful set of common functional features. Part I of this
+   paper reviews the following issues related to clustering approaches
+   found in the literature: relative (probabilistic) and absolute
+   (possibilistic) fuzzy membership functions and their relationships to
+   the Bayes rule, batch and on-line learning, prototype editing schemes,
+   growing and pruning networks, modular network architectures,
+   topologically perfect mapping, ecological nets and neuro-fuzziness. From
+   this discussion an equivalence between the concepts of fuzzy clustering
+   and soft competitive learning in clustering algorithms is proposed as a
+   unifying framework in the comparison of clustering systems. Moreover, a
+   set of functional attributes is selected for use as dictionary entries
+   in the comparison of clustering algorithms, which is the subject of Part
+   II of this paper [1].
+SN 1083-4419
+UT WOS:000084159500011
+PM 18252357
+ER
+
+PT J
+AU Ben-Dor, A
+   Shamir, R
+   Yakhini, Z
+TI Clustering gene expression patterns
+SO JOURNAL OF COMPUTATIONAL BIOLOGY
+VL 6
+IS 3-4
+BP 281
+EP 297
+DI 10.1089/106652799318274
+PD FAL-WIN 1999
+PY 1999
+AB Recent advances in biotechnology allow researchers to measure expression
+   levels for thousands of genes simultaneously, across different
+   conditions and over time. Analysis of data produced by such experiments
+   offers potential insight into gene function and regulatory mechanisms. A
+   key step in the analysis of gene expression data is the detection of
+   groups of genes that manifest similar expression patterns. The
+   corresponding algorithmic problem is to cluster multicondition gene
+   expression patterns, In this paper we describe a novel clustering
+   algorithm that was developed for analysis of gene expression data. We
+   define an appropriate stochastic error model on the input, and prove
+   that under the conditions of the model, the algorithm recovers the
+   duster structure with high probability, The running time of the
+   algorithm on an n-gene dataset is O{n(2)[log(n)](c)}. We also present a
+   practical heuristic based on the same algorithmic ideas. The heuristic
+   was implemented and its performance is demonstrated on simulated data
+   and on real gene expression data, with very promising results.
+RI Shamir, Ron/E-6514-2011
+SN 1066-5277
+UT WOS:000083764300002
+PM 10582567
+ER
+
+PT J
+AU Ben-Hur, A
+   Horn, D
+   Siegelmann, HT
+   Vapnik, V
+TI Support vector clustering
+SO JOURNAL OF MACHINE LEARNING RESEARCH
+VL 2
+IS 2
+BP 125
+EP 137
+DI 10.1162/15324430260185565
+PD SPR 2002
+PY 2002
+AB We present a novel clustering method using the approach of support
+   vector machines. Data points are mapped by means of a Gaussian kernel to
+   a high dimensional feature space, where we search for the minimal
+   enclosing sphere. This sphere, when mapped back to data space, can
+   separate into several components, each enclosing a separate cluster of
+   points. We present a simple algorithm for identifying these clusters.
+   The width of the Gaussian kernel controls the scale at which the data is
+   probed while the soft margin constant helps coping with outliers and
+   overlapping clusters. The structure of a dataset is explored by varying
+   the two parameters, maintaining a minimal number of support vectors to
+   assure smooth cluster boundaries. We demonstrate the performance of our
+   algorithm on several datasets.
+CT Workshop on Kernel Methods
+CY DEC   01, 2000
+CL BRECKENRIDGE, COLORADO
+SN 1532-4435
+UT WOS:000176055300003
+ER
+
+EF

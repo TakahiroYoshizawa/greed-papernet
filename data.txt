@@ -1,0 +1,252 @@
+﻿FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Amit, Y
+   Geman, D
+TI Shape quantization and recognition with randomized trees
+SO NEURAL COMPUTATION
+VL 9
+IS 7
+BP 1545
+EP 1588
+DI 10.1162/neco.1997.9.7.1545
+PD OCT 1 1997
+PY 1997
+AB We explore a new approach to shape recognition based on a virtually
+   infinite family of binary features (queries) of the image data, designed
+   to accommodate prior information about shape invariance and regularity.
+   Each query corresponds to a spatial arrangement of several local
+   topographic codes (or tags), which are in themselves too primitive and
+   common to be informative about shape. All the discriminating power
+   derives from relative angles and distances among the tags. The important
+   attributes of the queries are a natural partial ordering corresponding
+   to increasing structure and complexity; semi-invariance, meaning that
+   most shapes of a given class will answer the same way to two queries
+   that are successive in the ordering; and stability, since the queries
+   are not based an distinguished points and substructures.
+   No classifier based on the full feature set can be evaluated, and it is
+   impossible to determine a priori which arrangements are informative. Our
+   approach is to select informative features and build tree classifiers at
+   the same time by inductive learning. In effect, each tree provides an
+   approximation to the full posterior where the features chosen depend on
+   the branch that is traversed. Due to the number and nature of the
+   queries, standard decision tree construction based on a fixed-length
+   feature vector is not feasible. Instead we entertain only a small random
+   sample of queries at each node, constrain their complexity to increase
+   with tree depth, and grow multiple trees. The terminal nodes are labeled
+   by estimates of the corresponding posterior distribution over shape
+   classes. An image is classified by sending it down every tree and
+   aggregating the resulting distributions.
+   The method is applied to classifying handwritten digits and synthetic
+   linear and nonlinear deformations of three hundred LAT(E)X symbols.
+   State-of-the-art error rates are achieved on the National Institute of
+   Standards and Technology database of digits. The principal goal of the
+   experiments on LAT(E)X symbols is to analyze invariance, generalization
+   error and related issues, and a comparison with artificial neural
+   networks methods is presented in this context.
+RI Geman, Donald/A-3325-2010
+SN 0899-7667
+UT WOS:A1997XW95000007
+ER
+
+PT J
+AU Bauer, E
+   Kohavi, R
+TI An empirical comparison of voting classification algorithms: Bagging,
+   boosting, and variants
+SO MACHINE LEARNING
+VL 36
+IS 1-2
+BP 105
+EP 139
+DI 10.1023/A:1007515423169
+PD JUL 1999
+PY 1999
+AB Methods for voting classification algorithms, such as Bagging and
+   AdaBoost, have been shown to be very successful in improving the
+   accuracy of certain classifiers for artificial and real-world datasets.
+   We review these algorithms and describe a large empirical study
+   comparing several variants in conjunction with a decision tree inducer
+   (three variants) and a Naive-Bayes inducer. The purpose of the study is
+   to improve our understanding of why and when these algorithms, which use
+   perturbation, reweighting, and combination techniques, affect
+   classification error. We provide a bias and variance decomposition of
+   the error to show how different methods and variants influence these two
+   terms. This allowed us to determine that Bagging reduced variance of
+   unstable methods, while boosting methods (AdaBoost and Arc-x4) reduced
+   both the bias and variance of unstable methods but increased the
+   variance for Naive-Bayes, which was very stable. We observed that Arc-x4
+   behaves differently than AdaBoost if reweighting is used instead of
+   resampling, indicating a fundamental difference. Voting variants, some
+   of which are introduced in this paper, include: pruning versus no
+   pruning, use of probabilistic estimates, weight perturbations (Wagging),
+   and backfitting of data. We found that Bagging improves when
+   probabilistic estimates in conjunction with no-pruning are used, as well
+   as when the data was backfit. We measure tree sizes and show an
+   interesting positive correlation between the increase in the average
+   tree size in AdaBoost trials and its success in reducing the error. We
+   compare the mean-squared error of voting methods to non-voting methods
+   and show that the voting methods lead to large and significant
+   reductions in the mean-squared errors. Practical problems that arise in
+   implementing boosting algorithms are explored, including numerical
+   instabilities and underflows. We use scatterplots that graphically show
+   how AdaBoost reweights instances, emphasizing not only "hard" areas but
+   also outliers and noise.
+CT AAAI 1996 Workshop on Integrating Multiple Learned Models for Improving
+   and Scaling Machine Learning Algorithms
+CY AUG 05, 1996
+CL PORTLAND, OR
+SN 0885-6125
+EI 1573-0565
+UT WOS:000081389200006
+ER
+
+PT J
+AU Breiman, L
+TI Arcing classifiers
+SO ANNALS OF STATISTICS
+VL 26
+IS 3
+BP 801
+EP 824
+PD JUN 1998
+PY 1998
+AB Recent work has shown that combining multiple versions of unstable
+   classifiers such as trees or neural nets results in reduced test set
+   error. One of the more effective is bagging. Here, modified training
+   sets are formed by resampling from the original training set,
+   classifiers constructed using these training sets and then combined by
+   voting. Freund and Schapire propose an algorithm the basis of which is
+   to adaptively resample and combine (hence the acronym "arcing") so that
+   the weights in the resampling are increased for those cases most often
+   misclassified and the combining is done by weighted voting. Arcing is
+   more successful than bagging in test set error reduction. We explore two
+   arcing algorithms, compare them to each other and to bagging, and try to
+   understand how arcing works. We introduce the definitions of bias and
+   variance for a classifier as components of the test set error. Unstable
+   classifiers can have low bias on a large range of data sets. Their
+   problem is high variance. Combining multiple versions either through
+   bagging or arcing reduces variance significantly.
+SN 0090-5364
+UT WOS:000079135500001
+ER
+
+PT J
+AU Breiman, L
+TI Bagging predictors
+SO MACHINE LEARNING
+VL 24
+IS 2
+BP 123
+EP 140
+DI 10.1007/BF00058655
+PD AUG 1996
+PY 1996
+AB Bagging predictors is a method for generating multiple versions of a
+   predictor and using these to gel an aggregated predictor. The
+   aggregation averages over the versions when predicting a numerical
+   outcome and does a plurality vote when predicting a class. The multiple
+   versions are formed by making bootstrap replicates of the learning set
+   and using these as new learning sets. Tests on real and simulated data
+   sets using classification and regression trees and subset selection in
+   linear regression show that bagging can give substantial gains in
+   accuracy. The vital element is the instability of the prediction method.
+   If perturbing the learning set can cause significant changes in the
+   predictor constructed, then bagging can improve accuracy.
+SN 0885-6125
+UT WOS:A1996UZ38000003
+ER
+
+PT J
+AU Ho, TK
+TI The random subspace method for constructing decision forests
+SO IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+VL 20
+IS 8
+BP 832
+EP 844
+PD AUG 1998
+PY 1998
+AB Much of previous attention on decision trees focuses on the splitting
+   criteria and optimization of tree sizes. The dilemma between overfitting
+   and achieving maximum accuracy is seldom resolved. A method to construct
+   a decision tree based classifier is proposed that maintains highest
+   accuracy on training data and improves on generalization accuracy as it
+   grows in complexity. The classifier consists of multiple trees
+   constructed systematically by pseudorandomly selecting subsets of
+   components of the feature vector, that is, trees constructed in randomly
+   chosen subspaces. The subspace method is compared to single-tree
+   classifiers and other forest construction methods by experiments on
+   publicly available datasets, where the method's superiority is
+   demonstrated. We also discuss independence between trees in a forest and
+   relate that to the combined classification accuracy.
+SN 0162-8828
+UT WOS:000075372700006
+ER
+
+PT J
+AU Kleinberg, EM
+TI On the algorithmic implementation of stochastic discrimination
+SO IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE
+VL 22
+IS 5
+BP 473
+EP 490
+DI 10.1109/34.857004
+PD MAY 2000
+PY 2000
+AB Stochastic discrimination is a general methodology for constructing
+   classifiers appropriate for pattern recognition. It is based on
+   combining arbitrary numbers of Very weak components, which are usually
+   generated by some pseudorandom process, and it has the property that the
+   very complex and accurate classifiers produced in this way retain the
+   ability, characteristic of their weak component pieces, to generalize to
+   new data. In fact, it is often observed, in practice, that classifier
+   performance on test sets continues to rise as more weak components are
+   added, even after performance on training sets seems to have reached a
+   maximum. This is predicted by the underlying theory, for even though the
+   formal error rate on the training set may have reached a minimum, more
+   sophisticated measures intrinsic to this method indicate that classifier
+   performance on both training and test sets continues to improve as
+   complexity increases, in this paper, we begin with a review of the
+   method of stochastic discrimination as applied to pattern recognition.
+   Through a progression of examples keyed to various theoretical issues,
+   we discuss considerations involved with its algorithmic implementation.
+   We then take such an algorithmic implementation and compare its
+   performance, on a large set of standardized pattern recognition problems
+   from the University of California Irvine, and Statlog collections, to
+   many other techniques reported on in the literature, including boosting
+   and bagging. in doing these studies, we compare our results to those
+   reported in the literature by the various authors for the other methods,
+   using the same data and study paradigms used by them. Included in this
+   paper is an outline of the underlying mathematical theory of stochastic
+   discrimination and a remark concerning boosting, which provides a
+   theoretical justification for properties of that method observed in
+   practice, including its ability to generalize.
+SN 0162-8828
+UT WOS:000088347500005
+ER
+
+PT J
+AU Schatten, G
+   Hewitson, L
+   Simerly, C
+   Sutovsky, P
+   Huszar, G
+TI Cell and molecular biological challenges of ICSI: ART before science?
+SO JOURNAL OF LAW MEDICINE & ETHICS
+VL 26
+IS 1
+BP 29
+EP 37
+DI 10.1111/j.1748-720X.1998.tb01903.x
+PD SPR 1998
+PY 1998
+RI Schatten, Gerald/B-3253-2009; Schatten, Gerald/
+OI Schatten, Gerald/0000-0001-5206-7782
+SN 1073-1105
+UT WOS:000075596000004
+PM 11067583
+ER
+
+EF
