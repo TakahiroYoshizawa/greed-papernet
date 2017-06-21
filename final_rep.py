@@ -7,6 +7,11 @@ import os
 import matplotlib.pyplot  as plt
 
 citations = pd.read_csv('citations.csv', encoding='utf-8', index_col=0)
+citations = citations[citations.isin(citations.index)]
+citations = citations.dropna(axis=0,how='all')
+
+print(citations)
+
 Graph = nx.DiGraph()
 Graph.add_nodes_from(list(citations.index))
 for i in list(citations.index):
